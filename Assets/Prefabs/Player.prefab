@@ -131,11 +131,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 7.5
   jumpForce: 5
+  bounceForce: 0
   theRB: {fileID: 634984882446649221}
   groundCheckpoint: {fileID: 634984881892667640}
   whatIsGround:
     serializedVersion: 2
-    m_Bits: 512
+    m_Bits: 1536
+  knockBackLength: 0
+  knockBackForce: 0
+  stopInput: 0
 --- !u!50 &634984882446649221
 Rigidbody2D:
   serializedVersion: 4

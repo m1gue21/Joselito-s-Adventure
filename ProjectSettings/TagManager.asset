@@ -3,7 +3,9 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -15,7 +17,7 @@ TagManager:
   - 
   - Player
   - Ground
-  - 
+  - Platform
   - 
   - 
   - 
@@ -40,6 +42,9 @@ TagManager:
   m_SortingLayers:
   - name: BG
     uniqueID: 1588528403
+    locked: 0
+  - name: BG2
+    uniqueID: 2469180555
     locked: 0
   - name: World
     uniqueID: 1476716119
