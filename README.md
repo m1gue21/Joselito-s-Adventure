@@ -3,6 +3,8 @@
 Joselitos adventure is the very first version of a game i developed while I was in school, its stetic and musically based in colombian culture
 For now it just has 5 levels, each one with different music and platforms.
 
+Here is a short gameplay video: https://youtu.be/h1mofnKm8gE
+
 # Screenshots
 
 main menu
